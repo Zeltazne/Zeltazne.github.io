@@ -1,0 +1,9 @@
+#site settings
+title: Braxton McBride Title
+author:
+  name: Braxton McBride
+  email: braxtonmcbride@u.boisestate.edu
+description: "This is the start of a site made my Braxton McBride"
+
+#build settings
+theme: jekyll-theme-minimal
